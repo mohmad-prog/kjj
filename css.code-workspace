@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../css"
+		},
+		{
+			"path": "../../projectl"
+		},
+		{
+			"path": "../../javascript"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"editor.guides.bracketPairs": "active"
+	}
+}
